@@ -1,0 +1,16 @@
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\bin\Debug\net5.0\Skillbox_8_PhoneBook.exe
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\bin\Debug\net5.0\Skillbox_8_PhoneBook.deps.json
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\bin\Debug\net5.0\Skillbox_8_PhoneBook.runtimeconfig.json
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\bin\Debug\net5.0\Skillbox_8_PhoneBook.runtimeconfig.dev.json
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\bin\Debug\net5.0\Skillbox_8_PhoneBook.dll
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\bin\Debug\net5.0\Skillbox_8_PhoneBook.pdb
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\obj\Debug\net5.0\Skillbox_8_PhoneBook.csproj.AssemblyReference.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\obj\Debug\net5.0\Skillbox_8_PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\obj\Debug\net5.0\Skillbox_8_PhoneBook.AssemblyInfoInputs.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\obj\Debug\net5.0\Skillbox_8_PhoneBook.AssemblyInfo.cs
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\obj\Debug\net5.0\Skillbox_8_PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\obj\Debug\net5.0\Skillbox_8_PhoneBook.dll
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\obj\Debug\net5.0\refint\Skillbox_8_PhoneBook.dll
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\obj\Debug\net5.0\Skillbox_8_PhoneBook.pdb
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\obj\Debug\net5.0\Skillbox_8_PhoneBook.genruntimeconfig.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Skillbox_8_PhoneBook\obj\Debug\net5.0\ref\Skillbox_8_PhoneBook.dll

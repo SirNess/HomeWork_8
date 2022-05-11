@@ -1,0 +1,15 @@
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\bin\Debug\net6.0\Xml.exe
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\bin\Debug\net6.0\Xml.deps.json
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\bin\Debug\net6.0\Xml.runtimeconfig.json
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\bin\Debug\net6.0\Xml.dll
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\bin\Debug\net6.0\Xml.pdb
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\obj\Debug\net6.0\Xml.csproj.AssemblyReference.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\obj\Debug\net6.0\Xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\obj\Debug\net6.0\Xml.AssemblyInfoInputs.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\obj\Debug\net6.0\Xml.AssemblyInfo.cs
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\obj\Debug\net6.0\Xml.csproj.CoreCompileInputs.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\obj\Debug\net6.0\Xml.dll
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\obj\Debug\net6.0\refint\Xml.dll
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\obj\Debug\net6.0\Xml.pdb
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\obj\Debug\net6.0\Xml.genruntimeconfig.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Notebook\obj\Debug\net6.0\ref\Xml.dll

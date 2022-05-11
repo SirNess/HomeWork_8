@@ -1,0 +1,16 @@
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\bin\Debug\net5.0\Checking_repetitions.exe
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\bin\Debug\net5.0\Checking_repetitions.deps.json
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\bin\Debug\net5.0\Checking_repetitions.runtimeconfig.json
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\bin\Debug\net5.0\Checking_repetitions.runtimeconfig.dev.json
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\bin\Debug\net5.0\Checking_repetitions.dll
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\bin\Debug\net5.0\Checking_repetitions.pdb
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\obj\Debug\net5.0\Checking_repetitions.csproj.AssemblyReference.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\obj\Debug\net5.0\Checking_repetitions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\obj\Debug\net5.0\Checking_repetitions.AssemblyInfoInputs.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\obj\Debug\net5.0\Checking_repetitions.AssemblyInfo.cs
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\obj\Debug\net5.0\Checking_repetitions.csproj.CoreCompileInputs.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\obj\Debug\net5.0\Checking_repetitions.dll
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\obj\Debug\net5.0\refint\Checking_repetitions.dll
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\obj\Debug\net5.0\Checking_repetitions.pdb
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\obj\Debug\net5.0\Checking_repetitions.genruntimeconfig.cache
+C:\Users\lorda\OneDrive\repos\Skillbox_8\Checking_repetitions\obj\Debug\net5.0\ref\Checking_repetitions.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Skillbox_8_PhoneBook/1.0.0": {
+        "runtime": {
+          "Skillbox_8_PhoneBook.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skillbox_8_PhoneBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

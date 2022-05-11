@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="1">
+  <Address>
+    <Street>2</Street>
+    <HouseNumber>3</HouseNumber>
+    <FlatNumber>4</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>5</MobilePhone>
+    <FlatPhone>4</FlatPhone>
+  </Phones>
+</Person>
